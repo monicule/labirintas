@@ -13,7 +13,7 @@ _website design project_
 
 This project is for educational purposes only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://github.com/monicule/labirintas
+Site published at: https://monicule.github.io/labirintas/
 
 Design: [Labirintas](https://dribbble.com/shots/2537184-Day-008-404-Page-Daily-UI)
 
